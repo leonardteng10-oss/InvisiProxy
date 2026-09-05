@@ -1,0 +1,7 @@
+{
+  "production": true,
+  "minifyScripts": true,
+  "randomizeIdentifiers": true,
+  "disguiseFiles": true,
+  "usingSEO": true
+}
